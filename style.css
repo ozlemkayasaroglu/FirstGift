@@ -1,0 +1,48 @@
+.titleText {
+    font-family: 'Montez', cursive;
+    font-size: 25px;
+    float: right
+}
+
+.textTitleSubtitle {
+    height: 29px;
+}
+
+.titleText-footer {
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: italic;
+    float: right;
+    margin: auto;
+    padding: auto;
+}
+
+.card-title {
+    font-family: 'Montez', cursive;
+}
+
+.shopTitle {
+    font-family: 'Montez', cursive;
+}
+
+.homecircle {
+    text-align: end;
+}
+
+.mastfoot {
+    font-family: 'Montez', cursive;
+    font-size: 20px;
+}
+
+.card-cover {
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+h4,
+h3 {
+    font-family: 'Montez', cursive;
+    font-size: 25px;
+}
